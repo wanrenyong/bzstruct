@@ -1,0 +1,2 @@
+option('build_demo', type:'boolean', value: false, description:'build demo app')
+option('build_cjson', type:'boolean', value: true, description:'build cjson')
